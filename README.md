@@ -1,22 +1,24 @@
-# 👋 Olá! Eu sou [Pedroxis7]
+# 👋 Olá! Eu sou Pedro Xis7
 
-Sou apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo. Atualmente, estou focado em Programação em Python e JavaScript.
+Sou entusiasta de tecnologia e desenvolvimento, apaixonado por criar soluções eficientes e aprender sempre algo novo. Aqui no GitHub compartilho projetos e colaborações nas minhas áreas favoritas: VS Code, JavaScript, Python e HTML.
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Minhas Especialidades
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-## 📊 GitHub Stats
-![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
+## 📊 Minhas Estatísticas no GitHub
+
+![Pedro Xis7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Xis7&show_icons=true&theme=tokyonight)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Xis7&layout=compact&theme=tokyonight)
 
 ## 🌱 Atualmente aprendendo
-- [ ] [Ex: TypeScript]
-- [ ] [Ex: Docker]
-- [ ] [Ex: Machine Learning]
+- [ ] TypeScript
+- [ ] Docker
+- [ ] Machine Learning
 
 ## 📫 Como me encontrar
 - [LinkedIn](https://linkedin.com/in/seu-perfil)
