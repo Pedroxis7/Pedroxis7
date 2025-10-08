@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Pedro Xis7
 
-Sou estudante apaixonado por tecnologia e desenvolvimento, focado em aprender e crescer na área de programação. Atualmente, estou aprofundando meus conhecimentos em estruturas de dados e protocolos de redes como IPv4 e IPv6.
+Sou estudante apaixonado por tecnologia e desenvolvimento, focado em aprender e crescer na área de programação. Atualmente, estudo estruturas de dados e protocolos de redes (IPv4 e IPv6).
 
 ## 🚀 Minhas Especialidades
 
@@ -17,15 +17,15 @@ Sou estudante apaixonado por tecnologia e desenvolvimento, focado em aprender e 
 - Docker  
 - Machine Learning  
 
-## 📂 Índice dos meus repositórios
+## 📂 Índice de Códigos e Quantitativos
 
-| Projeto                 | Descrição                               | Link                                        |
-|------------------------|---------------------------------------|---------------------------------------------|
-| [Projeto1](https://github.com/Xis7/projeto1) | Exemplo: Algoritmos de ordenação em JavaScript | https://github.com/Xis7/projeto1             |
-| [Projeto2](https://github.com/Xis7/projeto2) | Exemplo: Site pessoal em HTML e CSS       | https://github.com/Xis7/projeto2             |
-| [Projeto3](https://github.com/Xis7/projeto3) | Exemplo: Scripts Python para análise de dados | https://github.com/Xis7/projeto3             |
+| Repositório               | Descrição                               | Linguagem   | Commits | Issues | Pull Requests | Link                                         |
+|---------------------------|---------------------------------------|-------------|---------|--------|---------------|----------------------------------------------|
+| [algoritmos-ordenacao](https://github.com/Xis7/algoritmos-ordenacao) | Algoritmos clássicos de ordenação em JavaScript | JavaScript | 45      | 3      | 1             | https://github.com/Xis7/algoritmos-ordenacao |
+| [site-pessoal](https://github.com/Xis7/site-pessoal)                 | Site pessoal simples em HTML e CSS                | HTML       | 30      | 0      | 0             | https://github.com/Xis7/site-pessoal           |
+| [scripts-python](https://github.com/Xis7/scripts-python)             | Scripts para análise de dados em Python            | Python     | 60      | 2      | 4             | https://github.com/Xis7/scripts-python          |
 
-*Obs.: Substitua os nomes dos projetos, descrições e links pelos seus reais.*
+*Obs.: Quantitativos são ilustrativos. Atualize conforme sua atividade.*
 
 ## 📊 Minhas Estatísticas no GitHub
 
