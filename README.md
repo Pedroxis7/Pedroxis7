@@ -11,11 +11,11 @@ Sou estudante apaixonado por tecnologia e desenvolvimento, focado em aprender e 
 
 ## 📚 O que estou aprendendo no momento
 
-- Estruturas de Dados
-- Protocolos de Redes (IPv4 e IPv6)
-- TypeScript
-- Docker
-- Machine Learning
+- Estruturas de Dados  
+- Protocolos de Redes (IPv4 e IPv6)  
+- TypeScript  
+- Docker  
+- Machine Learning  
 
 ## 📊 Minhas Estatísticas no GitHub
 
@@ -25,8 +25,10 @@ Sou estudante apaixonado por tecnologia e desenvolvimento, focado em aprender e 
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
-- [Portfólio](https://seusite.com)
-- [Email](mailto:seu@email.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/Pedroxis7_)](https://instagram.com/Pedroxis7_)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:jprabelo09@gmail.com)](mailto:jprabelo09@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/5596981262127)](https://wa.me/5596981262127)
 
 ---
+
+✨ Estou aberto a aprender, trocar experiências e crescer junto com a comunidade!
