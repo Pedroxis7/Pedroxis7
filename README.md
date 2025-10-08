@@ -25,7 +25,7 @@ Sou estudante apaixonado por tecnologia e desenvolvimento, focado em aprender e 
 
 ## 📫 Como me encontrar
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/Pedroxis7_)](https://instagram.com/Pedroxis7_)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/Pedroxis7_)](https://instagram.com/_Pedroxis7)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:jprabelo09@gmail.com)](mailto:jprabelo09@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/5596981262127)](https://wa.me/5596981262127)
 
