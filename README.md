@@ -17,6 +17,16 @@ Sou estudante apaixonado por tecnologia e desenvolvimento, focado em aprender e 
 - Docker  
 - Machine Learning  
 
+## 📂 Índice dos meus repositórios
+
+| Projeto                 | Descrição                               | Link                                        |
+|------------------------|---------------------------------------|---------------------------------------------|
+| [Projeto1](https://github.com/Xis7/projeto1) | Exemplo: Algoritmos de ordenação em JavaScript | https://github.com/Xis7/projeto1             |
+| [Projeto2](https://github.com/Xis7/projeto2) | Exemplo: Site pessoal em HTML e CSS       | https://github.com/Xis7/projeto2             |
+| [Projeto3](https://github.com/Xis7/projeto3) | Exemplo: Scripts Python para análise de dados | https://github.com/Xis7/projeto3             |
+
+*Obs.: Substitua os nomes dos projetos, descrições e links pelos seus reais.*
+
 ## 📊 Minhas Estatísticas no GitHub
 
 ![Pedro Xis7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Xis7&show_icons=true&theme=tokyonight)
@@ -25,7 +35,7 @@ Sou estudante apaixonado por tecnologia e desenvolvimento, focado em aprender e 
 
 ## 📫 Como me encontrar
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/Pedroxis7_)](https://instagram.com/_Pedroxis7)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/Pedroxis7_)](https://instagram.com/Pedroxis7_)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:jprabelo09@gmail.com)](mailto:jprabelo09@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/5596981262127)](https://wa.me/5596981262127)
 
