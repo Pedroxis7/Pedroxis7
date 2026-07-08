@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de Ciência da Computação (3º semestre)  
+🎓 Estudante de Ciência da Computação (4º semestre)  
 📍 Brasil  
 
 Desenvolvedor backend focado na criação de APIs escaláveis, seguras e bem estruturadas.
